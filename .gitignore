@@ -1,0 +1,5 @@
+node_modules
+.next
+new_file.png
+old_file.png
+yarn-error.log
